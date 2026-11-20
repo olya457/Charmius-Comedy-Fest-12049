@@ -1,97 +1,64 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# Charmius Comedy Fest
 
-# Getting Started
+React Native 0.86 / TypeScript application for iOS and Android, built from the supplied designs and festival content. All bundled images come from `src/assets`.
 
-> **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
-
-## Step 1: Start Metro
-
-First, you will need to run **Metro**, the JavaScript build tool for React Native.
-
-To start the Metro dev server, run the following command from the root of your React Native project:
+## Run
 
 ```sh
-# Using npm
+npm install
 npm start
-
-# OR using Yarn
-yarn start
 ```
 
-## Step 2: Build and run your app
-
-With Metro running, open a new terminal window/pane from the root of your React Native project, and use one of the following commands to build and run your Android or iOS app:
-
-### Android
-
-```sh
-# Using npm
-npm run android
-
-# OR using Yarn
-yarn android
-```
-
-### iOS
-
-For iOS, remember to install CocoaPods dependencies (this only needs to be run on first clone or after updating native deps).
-
-The first time you create a new project, run the Ruby bundler to install CocoaPods itself:
+For iOS, install the Ruby version and Bundler required by `Gemfile.lock`, then:
 
 ```sh
 bundle install
-```
-
-Then, and every time you update your native dependencies, run:
-
-```sh
+cd ios
 bundle exec pod install
+cd ..
+npm run ios
 ```
 
-For more information, please visit [CocoaPods Getting Started guide](https://guides.cocoapods.org/using/getting-started.html).
+For Android, configure Android SDK and JDK 17, then:
 
 ```sh
-# Using npm
-npm run ios
-
-# OR using Yarn
-yarn ios
+npm run android
 ```
 
-If everything is set up correctly, you should see your new app running in the Android Emulator, iOS Simulator, or your connected device.
+## Checks
 
-This is one way to run your app — you can also build it directly from Android Studio or Xcode.
+```sh
+npm run typecheck
+npm test -- --runInBand
+npm run lint
+```
 
-## Step 3: Modify your app
+## Structure
 
-Now that you have successfully run the app, let's make changes!
+- `src/navigation`: typed React Navigation stack and five bottom tabs.
+- `src/screens`: loader, onboarding, home, schedule, performance details, discover, matching game, food, challenges, assistant and FAQ.
+- `src/components`: shared screen layout, controls, cards, search, empty states and progress.
+- `src/data`: supplied festival content and static local asset mapping.
+- `src/storage`: serialized AsyncStorage persistence with error recovery.
+- `src/utils`: matching game, performance dates, offline answers and durable photo storage.
+- `src/theme`: shared colors and typography.
 
-Open `App.tsx` in your text editor of choice and make some changes. When you save, your app will automatically update and reflect these changes — this is powered by [Fast Refresh](https://reactnative.dev/docs/fast-refresh).
+## Behavior
 
-When you want to forcefully reload, for example to reset the state of your app, you can perform a full reload:
+The splash animation is rendered locally in WebView for four seconds. Onboarding is shown until completed. User favorites, votes, submissions, messages and best score start empty and persist across launches. Photos are copied into the application's document directory; replacing or deleting a saved submission removes its previous photo.
 
-- **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Dev Menu**, accessed via <kbd>Ctrl</kbd> + <kbd>M</kbd> (Windows/Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (macOS).
-- **iOS**: Press <kbd>R</kbd> in iOS Simulator.
+The supplied November and December dates are interpreted as 2026, matching their weekdays. The schedule contains all 34 provided performances with monthly occurrences across November 2026–April 2027 (187 dated entries). Original dates and IDs are preserved; each later occurrence has its own ID for favorites and votes. Recurrences keep the calendar day, start/end time and stage; the weekday is recalculated. A day beyond the end of a month is clamped to that month’s final day. Performances first scheduled in December do not appear before their original date. Content also includes 31 menu items, 33 festival facts, 50 dictionary terms, 32 challenges and 15 FAQ entries. Sample submissions, votes, performers and scores from the mockups are not seeded.
 
-## Congratulations! :tada:
+Audience Choice is local: one stored vote per performance per installation. It is not connected to an organizer's vote-counting service. The assistant searches the bundled guide offline and does not call an AI service. Food is a browsing menu, with payment at the vendor counter. No server endpoint or credentials were supplied.
 
-You've successfully run and modified your React Native App. :partying_face:
+Camera and photo-library prompts are configured for iOS. Android uses the system image picker and camera intent. The simulator can choose library images; camera capture requires a supported device.
 
-### Now what?
+## Learning library and adaptive layout
 
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [docs](https://reactnative.dev/docs/getting-started).
+Discover → Watch & Read includes six English-language publisher links from BBC Maestro, TED, the University of Chicago, and The Second City. Users can search, filter by format or topic, save bookmarks, open the original publisher page, and continue to a related creative challenge. Existing saved data is preserved when the bookmarks field is introduced.
 
-# Troubleshooting
+Layouts respond to current window dimensions and safe-area insets, including folding/unfolding and landscape changes on iPhone Duo. Food, services, schedule, challenges, learning resources, and dictionary cards reflow into measured columns. Larger accessibility text reduces the number of columns. Onboarding uses a split layout on wide windows. Forms retain their state while dimensions change. Vote confirmation scrolls on short displays, and the bottom tab bar hides while the keyboard is open.
 
-If you're having issues getting the above steps to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
+Screen entrances, subtle stage lighting, button presses, progress changes, and navigation transitions use the built-in Animated API. Background animation stops when its screen is unfocused or the app is inactive. Reduce Motion is respected. No additional animation dependency is needed.
 
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+Every bundled image uses a descriptive `charmius-*.png` filename. The unused template-screen package and unused source icon were removed. Publisher resources are linked, not copied into the app.

@@ -24,6 +24,14 @@ target 'CharmiusComedyFest' do
   )
 
   post_install do |installer|
+    installer.pods_project.targets.each do |target|
+      target.build_configurations.each do |configuration|
+        deployment_target = configuration.build_settings['IPHONEOS_DEPLOYMENT_TARGET']
+        if deployment_target && Gem::Version.new(deployment_target) < Gem::Version.new(min_ios_version_supported)
+          configuration.build_settings['IPHONEOS_DEPLOYMENT_TARGET'] = min_ios_version_supported
+        end
+      end
+    end
     react_native_post_install(
       installer,
       config[:reactNativePath],

@@ -1,0 +1,2119 @@
+{
+  "facts": [
+    {
+      "id": "1",
+      "title": "One Stage, Endless Stories",
+      "category": "FESTIVAL CULTURE",
+      "description": "A single comedy stage can host stand-up, improv, storytelling, and theatrical performances in one day. The same space can feel completely different with every new act."
+    },
+    {
+      "id": "2",
+      "title": "The First Laugh",
+      "category": "STAND-UP",
+      "description": "Comedians often try to get their first laugh early in a performance. It helps establish a connection with the audience and creates momentum for the rest of the set."
+    },
+    {
+      "id": "3",
+      "title": "No Two Shows Alike",
+      "category": "IMPROV",
+      "description": "An improvised comedy show can never be repeated exactly. Audience suggestions, spontaneous decisions, and unexpected reactions make every performance unique."
+    },
+    {
+      "id": "4",
+      "title": "The Power of Silence",
+      "category": "COMEDY TECHNIQUES",
+      "description": "Sometimes the funniest moment happens when nobody speaks. A carefully timed pause can build anticipation and make the next punchline even more effective."
+    },
+    {
+      "id": "5",
+      "title": "The Comedy Marathon",
+      "category": "FESTIVAL CULTURE",
+      "description": "A comedy festival can feature dozens of performances across several stages. Visitors may experience completely different styles of humor without leaving the festival grounds."
+    },
+    {
+      "id": "6",
+      "title": "The Invisible Fourth Wall",
+      "category": "COMEDY THEATRE",
+      "description": "In traditional theatre, performers often act as though the audience isn't there. Breaking this imaginary fourth wall allows characters to speak directly to spectators, sometimes creating unexpected comedy."
+    },
+    {
+      "id": "7",
+      "title": "The Secret of Callbacks",
+      "category": "STAND-UP",
+      "description": "A callback happens when a comedian brings back an earlier joke in a new context. The audience recognizes the reference, and the unexpected connection often produces an even bigger laugh."
+    },
+    {
+      "id": "8",
+      "title": "Laughter Is Contagious",
+      "category": "AUDIENCE",
+      "description": "People are often more likely to laugh when others around them are laughing. This shared reaction is one reason live comedy can feel so different from watching a performance alone."
+    },
+    {
+      "id": "9",
+      "title": "Five Minutes to Shine",
+      "category": "OPEN MIC",
+      "description": "Many open-mic comedy nights give performers around five minutes on stage. For new comedians, those few minutes can be an opportunity to test material, develop confidence, and discover their comedic voice."
+    },
+    {
+      "id": "10",
+      "title": "The Art of the Heckle",
+      "category": "STAND-UP",
+      "description": "A heckler interrupts a performer, sometimes hoping to become part of the show. Experienced comedians often respond with quick wit, but keeping the performance moving is usually more important than winning an argument."
+    },
+    {
+      "id": "11",
+      "title": "The Audience Becomes the Writer",
+      "category": "IMPROV",
+      "description": "In audience-driven improvisation, a single suggested word can inspire an entire scene. A random location, unusual profession, or imaginary object may become the foundation of a hilarious story."
+    },
+    {
+      "id": "12",
+      "title": "Comedy Has a Rhythm",
+      "category": "COMEDY TECHNIQUES",
+      "description": "The timing between a setup and a punchline can change how a joke is received. Comedians use pauses, pacing, and changes in delivery to guide audience expectations."
+    },
+    {
+      "id": "13",
+      "title": "A Festival Within a Festival",
+      "category": "FESTIVAL CULTURE",
+      "description": "Large comedy festivals often feature smaller performance spaces alongside their main stages. These intimate venues allow audiences to experience experimental shows and discover emerging comedians."
+    },
+    {
+      "id": "14",
+      "title": "The Unexpected Punchline",
+      "category": "COMEDY WRITING",
+      "description": "Many jokes work by leading the audience toward one conclusion before revealing something completely different. The sudden change in expectation creates the surprise that makes the punchline effective."
+    },
+    {
+      "id": "15",
+      "title": "The Comedy Stool",
+      "category": "STAND-UP",
+      "description": "A simple stool is a familiar sight on many stand-up stages. It can hold a drink, support a prop, or become part of a comedian's performance, even when the rest of the stage is completely empty."
+    },
+    {
+      "id": "16",
+      "title": "The Rule of Three",
+      "category": "COMEDY TECHNIQUES",
+      "description": "Three-part jokes often establish a recognizable pattern with the first two elements. The third introduces an unexpected twist, creating a satisfying comedic surprise."
+    },
+    {
+      "id": "17",
+      "title": "When Props Become Punchlines",
+      "category": "COMEDY THEATRE",
+      "description": "An ordinary object can become the center of a comedy scene. A misplaced suitcase, broken umbrella, or mysterious package may trigger an entire chain of ridiculous misunderstandings."
+    },
+    {
+      "id": "18",
+      "title": "The Warm-Up Effect",
+      "category": "LIVE PERFORMANCE",
+      "description": "Some comedy productions use a warm-up performer to help an audience relax before the main show. Short jokes and simple interactions can create a welcoming atmosphere and encourage participation."
+    },
+    {
+      "id": "19",
+      "title": "The Mystery of the Running Gag",
+      "category": "COMEDY WRITING",
+      "description": "A running gag is a joke or situation that keeps returning throughout a performance. Each repetition may introduce a new variation, making the familiar joke increasingly ridiculous."
+    },
+    {
+      "id": "20",
+      "title": "A Different Kind of Spotlight",
+      "category": "FESTIVAL CULTURE",
+      "description": "Comedy festivals can give emerging performers the chance to appear alongside established entertainers. Short showcases and shared lineups introduce audiences to comedic voices they might not otherwise discover."
+    },
+    {
+      "id": "21",
+      "title": "The Art of the Roast",
+      "category": "ROAST COMEDY",
+      "description": "A comedy roast uses exaggerated insults and playful criticism as entertainment. Traditional roasts often involve performers who understand the humorous nature of the exchange, with sharp jokes balanced by mutual respect."
+    },
+    {
+      "id": "22",
+      "title": "The Power of a Facial Expression",
+      "category": "PHYSICAL COMEDY",
+      "description": "A raised eyebrow, awkward smile, or perfectly timed glance can sometimes create a bigger laugh than a spoken joke. Physical comedy relies on gestures, movement, and visual storytelling."
+    },
+    {
+      "id": "23",
+      "title": "The Unwritten Ending",
+      "category": "IMPROV",
+      "description": "Improvisers rarely know exactly how a scene will end when it begins. They build on one another's ideas, allowing the story to develop naturally until an unexpected conclusion emerges."
+    },
+    {
+      "id": "24",
+      "title": "The Sound of a Great Crowd",
+      "category": "AUDIENCE",
+      "description": "Live laughter gives performers immediate feedback. Comedians can adjust their pacing, pause longer after a successful joke, or change their delivery depending on the audience's reaction."
+    },
+    {
+      "id": "25",
+      "title": "The Final Applause",
+      "category": "FESTIVAL CULTURE",
+      "description": "Closing performances often bring together comedians from different parts of a festival lineup. Shared appearances, surprise collaborations, and final acknowledgments turn the last show into a celebration of the entire comedy experience."
+    },
+    {
+      "id": "26",
+      "title": "The Comedy Green Room",
+      "category": "BEHIND THE SCENES",
+      "description": "The green room is where performers relax, prepare their material, and wait before going on stage. Despite its name, the room doesn't actually have to be green. It's often a place for last-minute rehearsals, nervous conversations, and unexpected creative exchanges."
+    },
+    {
+      "id": "27",
+      "title": "The One-Liner Challenge",
+      "category": "STAND-UP",
+      "description": "Some comedians specialize in delivering entire jokes in just one or two sentences. These quick, self-contained punchlines require precise wording and timing, proving that even a few carefully chosen words can produce a memorable laugh."
+    },
+    {
+      "id": "28",
+      "title": "Comedy Without Words",
+      "category": "PHYSICAL COMEDY",
+      "description": "Some of the most recognizable comedy performances rely almost entirely on movement rather than dialogue. Exaggerated gestures, unexpected accidents, and perfectly timed reactions can entertain audiences without requiring a shared language."
+    },
+    {
+      "id": "29",
+      "title": "The Secret of the Double Act",
+      "category": "COMEDY TECHNIQUES",
+      "description": "Comedy duos often create humor through contrasting personalities. One performer may behave seriously while the other introduces chaos, allowing their opposing reactions to transform ordinary situations into hilarious exchanges."
+    },
+    {
+      "id": "30",
+      "title": "When the Script Changes",
+      "category": "LIVE PERFORMANCE",
+      "description": "Even carefully rehearsed comedy shows can take unexpected turns. A forgotten line, misplaced prop, or surprising audience reaction sometimes creates an entirely unplanned moment that becomes one of the evening's biggest laughs."
+    },
+    {
+      "id": "31",
+      "title": "The Hidden Meaning of Timing",
+      "category": "COMEDY WRITING",
+      "description": "A punchline delivered too early can lose its impact, while waiting too long may weaken the surprise. Skilled comedians learn to recognize the moment when anticipation reaches its peak, turning timing into an essential part of their performance."
+    },
+    {
+      "id": "32",
+      "title": "The Comedy Festival Effect",
+      "category": "FESTIVAL CULTURE",
+      "description": "Comedy festivals bring different audiences and performers into the same creative space. A visitor might discover observational stand-up, experimental improvisation, and theatrical satire in a single day, experiencing how differently humor can be expressed."
+    },
+    {
+      "id": "33",
+      "title": "The Joke That Returns",
+      "category": "STAND-UP",
+      "description": "Some comedians finish their performances by unexpectedly referring to a joke from the beginning of the show. This technique, known as a callback, creates a satisfying connection between different parts of the set and can make the final punchline especially memorable."
+    }
+  ],
+  "terms": [
+    {
+      "id": "1",
+      "title": "Act-Out",
+      "category": "Stage",
+      "description": "When a comedian physically acts out a character, conversation, or situation instead of simply describing it."
+    },
+    {
+      "id": "2",
+      "title": "Ad-Lib",
+      "category": "Improv",
+      "description": "A spontaneous joke or remark made without preparation, often in response to an unexpected moment."
+    },
+    {
+      "id": "3",
+      "title": "Aside",
+      "category": "Theatre",
+      "description": "A short remark delivered directly to the audience that other characters in the scene are not supposed to hear."
+    },
+    {
+      "id": "4",
+      "title": "Audience Work",
+      "category": "Stage",
+      "description": "Comedy created through direct interaction with audience members, often using spontaneous questions and responses."
+    },
+    {
+      "id": "5",
+      "title": "Beat",
+      "category": "Writing",
+      "description": "A small moment in a scene or joke that marks a change in action, emotion, or comedic rhythm."
+    },
+    {
+      "id": "6",
+      "title": "Blue Comedy",
+      "category": "Stand-Up",
+      "description": "A style of humor involving adult themes, explicit language, or provocative subject matter."
+    },
+    {
+      "id": "7",
+      "title": "Character Work",
+      "category": "Performance",
+      "description": "Comedy built around exaggerated personalities, distinctive voices, unusual behavior, or fictional characters."
+    },
+    {
+      "id": "8",
+      "title": "Closer",
+      "category": "Stand-Up",
+      "description": "The final joke or routine in a comedy set, usually chosen to leave the audience with a strong laugh."
+    },
+    {
+      "id": "9",
+      "title": "Cold Open",
+      "category": "Sketch",
+      "description": "A short opening scene or joke presented before the formal introduction of a comedy show."
+    },
+    {
+      "id": "10",
+      "title": "Crowd Work",
+      "category": "Stand-Up",
+      "description": "Spontaneous comedy created by talking directly with audience members and responding to their answers."
+    },
+    {
+      "id": "11",
+      "title": "Deadpan",
+      "category": "Delivery",
+      "description": "Delivering jokes with a serious expression and little visible emotion, making the humor feel unexpectedly natural."
+    },
+    {
+      "id": "12",
+      "title": "Delivery",
+      "category": "Performance",
+      "description": "The way a comedian presents a joke through voice, timing, expression, and physical movement."
+    },
+    {
+      "id": "13",
+      "title": "Double Act",
+      "category": "Performance",
+      "description": "A comedy partnership where two performers create humor through contrasting personalities and reactions."
+    },
+    {
+      "id": "14",
+      "title": "Dry Humor",
+      "category": "Comedy Style",
+      "description": "A subtle style of comedy that presents amusing or absurd observations in a serious, understated manner."
+    },
+    {
+      "id": "15",
+      "title": "Edit",
+      "category": "Improv",
+      "description": "A deliberate action that ends an improvised scene or transitions the performance into a new situation."
+    },
+    {
+      "id": "16",
+      "title": "Escalation",
+      "category": "Writing",
+      "description": "The process of making a comedic situation increasingly exaggerated, complicated, or ridiculous."
+    },
+    {
+      "id": "17",
+      "title": "Exaggeration",
+      "category": "Comedy Techniques",
+      "description": "Making a characteristic, situation, or reaction unusually extreme to emphasize its humorous qualities."
+    },
+    {
+      "id": "18",
+      "title": "Fourth Wall",
+      "category": "Theatre",
+      "description": "The imaginary barrier separating performers from the audience, which can be broken for comedic effect."
+    },
+    {
+      "id": "19",
+      "title": "Gag",
+      "category": "Writing",
+      "description": "A short joke, amusing situation, or visual action designed to produce a laugh."
+    },
+    {
+      "id": "20",
+      "title": "Game of the Scene",
+      "category": "Improv",
+      "description": "The central funny pattern or unusual behavior that improvisers discover and develop throughout a scene."
+    },
+    {
+      "id": "21",
+      "title": "Green Room",
+      "category": "Backstage",
+      "description": "A designated area where performers wait, relax, and prepare before appearing on stage."
+    },
+    {
+      "id": "22",
+      "title": "Heckler",
+      "category": "Audience",
+      "description": "An audience member who interrupts a performance with comments, questions, or unsolicited remarks."
+    },
+    {
+      "id": "23",
+      "title": "Heightening",
+      "category": "Improv",
+      "description": "Building on an established comedic idea by making each repetition more surprising or exaggerated."
+    },
+    {
+      "id": "24",
+      "title": "Improvisation",
+      "category": "Improv",
+      "description": "Creating dialogue, characters, and scenes spontaneously without relying on a fully prepared script."
+    },
+    {
+      "id": "25",
+      "title": "Inside Joke",
+      "category": "Writing",
+      "description": "A joke that depends on shared knowledge or experiences understood by a particular group of people."
+    },
+    {
+      "id": "26",
+      "title": "Misdirection",
+      "category": "Writing",
+      "description": "Leading the audience toward one expectation before revealing an unexpected and humorous conclusion."
+    },
+    {
+      "id": "27",
+      "title": "Monologue",
+      "category": "Performance",
+      "description": "An extended speech delivered by one performer, often containing stories, observations, or comedic commentary."
+    },
+    {
+      "id": "28",
+      "title": "Observational Comedy",
+      "category": "Stand-Up",
+      "description": "Humor based on familiar everyday experiences, social habits, and situations people commonly recognize."
+    },
+    {
+      "id": "29",
+      "title": "One-Liner",
+      "category": "Writing",
+      "description": "A short, self-contained joke that delivers its setup and punchline in a single sentence or brief statement."
+    },
+    {
+      "id": "30",
+      "title": "Open Mic",
+      "category": "Stand-Up",
+      "description": "An event where comedians, including beginners, perform short sets and experiment with material."
+    },
+    {
+      "id": "31",
+      "title": "Opener",
+      "category": "Stand-Up",
+      "description": "The first joke or routine in a comedian's set, designed to establish the tone and engage the audience."
+    },
+    {
+      "id": "32",
+      "title": "Physical Comedy",
+      "category": "Performance",
+      "description": "Humor created through body movements, gestures, facial expressions, and exaggerated physical situations."
+    },
+    {
+      "id": "33",
+      "title": "Premise",
+      "category": "Writing",
+      "description": "The central idea or situation that serves as the foundation for a joke, sketch, or comedy routine."
+    },
+    {
+      "id": "34",
+      "title": "Punchline",
+      "category": "Writing",
+      "description": "The final part of a joke that introduces an unexpected twist and delivers its main humorous impact."
+    },
+    {
+      "id": "35",
+      "title": "Riffing",
+      "category": "Improv",
+      "description": "Spontaneously developing jokes and humorous observations around a topic without following prepared material."
+    },
+    {
+      "id": "36",
+      "title": "Roast",
+      "category": "Stand-Up",
+      "description": "A comedy performance featuring exaggerated insults and playful criticism directed at a person or group."
+    },
+    {
+      "id": "37",
+      "title": "Rule of Three",
+      "category": "Comedy Techniques",
+      "description": "A technique where two elements establish a pattern and a third introduces an unexpected comedic twist."
+    },
+    {
+      "id": "38",
+      "title": "Running Gag",
+      "category": "Writing",
+      "description": "A joke, behavior, or situation that repeatedly appears throughout a performance, often with new variations."
+    },
+    {
+      "id": "39",
+      "title": "Satire",
+      "category": "Comedy Style",
+      "description": "Humor that uses irony, exaggeration, or ridicule to criticize social behavior, institutions, or public issues."
+    },
+    {
+      "id": "40",
+      "title": "Set",
+      "category": "Stand-Up",
+      "description": "A collection of jokes and routines performed by a comedian during a scheduled appearance."
+    },
+    {
+      "id": "41",
+      "title": "Setup",
+      "category": "Writing",
+      "description": "The opening part of a joke that establishes context and guides the audience toward an expected conclusion."
+    },
+    {
+      "id": "42",
+      "title": "Sketch",
+      "category": "Sketch",
+      "description": "A short comedic scene featuring characters and a specific situation, usually built around one central idea."
+    },
+    {
+      "id": "43",
+      "title": "Slapstick",
+      "category": "Physical Comedy",
+      "description": "A highly physical style of humor involving exaggerated accidents, clumsy actions, and comic mishaps."
+    },
+    {
+      "id": "44",
+      "title": "Straight Man",
+      "category": "Performance",
+      "description": "A performer who reacts seriously or logically to another character's ridiculous behavior, creating comedic contrast."
+    },
+    {
+      "id": "45",
+      "title": "Tag",
+      "category": "Writing",
+      "description": "An additional short joke placed immediately after a punchline to generate another laugh from the same idea."
+    },
+    {
+      "id": "46",
+      "title": "Tight Five",
+      "category": "Stand-Up",
+      "description": "A polished five-minute stand-up set containing a comedian's most reliable and carefully rehearsed material."
+    },
+    {
+      "id": "47",
+      "title": "Timing",
+      "category": "Performance",
+      "description": "The precise placement of words, pauses, reactions, and movements to maximize the effectiveness of a joke."
+    },
+    {
+      "id": "48",
+      "title": "Topical Humor",
+      "category": "Comedy Style",
+      "description": "Comedy that draws inspiration from recent news, cultural trends, current events, or widely discussed subjects."
+    },
+    {
+      "id": "49",
+      "title": "Warm-Up Act",
+      "category": "Stage",
+      "description": "A performer who entertains the audience before the main show, helping establish an energetic and welcoming atmosphere."
+    },
+    {
+      "id": "50",
+      "title": "Yes, And...",
+      "category": "Improv",
+      "description": "An improvisation principle that encourages performers to accept a partner's idea and add new information to develop the scene."
+    }
+  ],
+  "shows": [
+    {
+      "id": "1",
+      "title": "Opening Night: The First Laugh",
+      "category": "Stand-Up Showcase",
+      "age": "16+",
+      "date": "Fri, Nov 20",
+      "time": "18:00 – 19:25",
+      "duration": 85,
+      "stage": "Main Stage",
+      "description": "The festival kicks off with six comedians, sharp observations and plenty of unexpected punchlines. A fast-paced opening showcase featuring different stand-up styles, from everyday frustrations to wonderfully awkward personal stories.",
+      "dateKey": "2026-11-20"
+    },
+    {
+      "id": "2",
+      "title": "The Flatshare",
+      "category": "Comedy Theatre",
+      "age": "14+",
+      "date": "Fri, Nov 20",
+      "time": "18:30 – 19:45",
+      "duration": 75,
+      "stage": "Theatre Stage",
+      "description": "Three strangers, one apartment and a rental agreement nobody bothered to read. This energetic stage comedy follows a disastrous week of shared living, where missing groceries, questionable relationships and increasingly ridiculous house rules push everyone to their limits.",
+      "dateKey": "2026-11-20"
+    },
+    {
+      "id": "3",
+      "title": "Crowd Work Confidential",
+      "category": "Interactive Stand-Up",
+      "age": "18+",
+      "date": "Fri, Nov 20",
+      "time": "20:00 – 21:15",
+      "duration": 75,
+      "stage": "Main Stage",
+      "description": "No prepared stories, no predictable punchlines and absolutely no guarantee of staying unnoticed. Two experienced crowd-work comedians turn conversations with audience members into spontaneous comedy, making every performance completely different.",
+      "dateKey": "2026-11-20"
+    },
+    {
+      "id": "4",
+      "title": "Scenes From Nowhere",
+      "category": "Improvisational Comedy",
+      "age": "12+",
+      "date": "Fri, Nov 20",
+      "time": "20:15 – 21:25",
+      "duration": 70,
+      "stage": "Improv Stage",
+      "description": "An empty stage, five improvisers and an audience full of unpredictable suggestions. Characters, locations and entire stories are invented in real time, creating hilarious situations that have never existed before and will never happen quite the same way again.",
+      "dateKey": "2026-11-20"
+    },
+    {
+      "id": "5",
+      "title": "After Hours Comedy Club",
+      "category": "Late-Night Stand-Up",
+      "age": "18+",
+      "date": "Fri, Nov 20",
+      "time": "22:00 – 23:10",
+      "duration": 70,
+      "stage": "Cabaret Stage",
+      "description": "An intimate late-night comedy session featuring four performers with distinctly different personalities and approaches to humor. Expect candid storytelling, dark observations, unconventional jokes and the relaxed atmosphere of a traditional comedy club.",
+      "dateKey": "2026-11-20"
+    },
+    {
+      "id": "6",
+      "title": "The Worst Meeting Ever",
+      "category": "Satirical Theatre",
+      "age": "14+",
+      "date": "Sat, Nov 21",
+      "time": "13:30 – 14:50",
+      "duration": 80,
+      "stage": "Theatre Stage",
+      "description": "A routine office meeting spirals out of control when an ambitious manager announces a revolutionary plan nobody understands. Through absurd corporate language, petty disagreements and spectacular misunderstandings, this workplace comedy exposes the ridiculous side of professional life.",
+      "dateKey": "2026-11-21"
+    },
+    {
+      "id": "7",
+      "title": "New Material, No Promises",
+      "category": "Stand-Up Workshop Show",
+      "age": "16+",
+      "date": "Sat, Nov 21",
+      "time": "15:00 – 16:05",
+      "duration": 65,
+      "stage": "Studio Stage",
+      "description": "Five comedians test fresh material in front of a live audience, experimenting with unfinished stories, unusual observations and unexpected punchlines. Some jokes become instant favorites, while others take surprising turns. A chance to experience the creative process behind stand-up comedy.",
+      "dateKey": "2026-11-21"
+    },
+    {
+      "id": "8",
+      "title": "Wrong Answers Only",
+      "category": "Comedy Game Show",
+      "age": "12+",
+      "date": "Sat, Nov 21",
+      "time": "16:30 – 17:35",
+      "duration": 65,
+      "stage": "Improv Stage",
+      "description": "Two teams of comedians compete in a ridiculous quiz where sensible answers are practically useless. Unexpected questions, improvised explanations and audience-generated challenges turn an ordinary competition into an unpredictable comedy spectacle.",
+      "dateKey": "2026-11-21"
+    },
+    {
+      "id": "9",
+      "title": "Relationships: Terms & Conditions",
+      "category": "Romantic Comedy Theatre",
+      "age": "16+",
+      "date": "Sat, Nov 21",
+      "time": "17:15 – 18:35",
+      "duration": 80,
+      "stage": "Theatre Stage",
+      "description": "A couple decides to save their relationship by introducing a written agreement covering everything from household chores to acceptable texting habits. Their carefully negotiated rules quickly become the source of even bigger misunderstandings in this witty comedy about modern love.",
+      "dateKey": "2026-11-21"
+    },
+    {
+      "id": "10",
+      "title": "Saturday Spotlight",
+      "category": "Stand-Up Comedy",
+      "age": "16+",
+      "date": "Sat, Nov 21",
+      "time": "18:30 – 20:00",
+      "duration": 90,
+      "stage": "Main Stage",
+      "description": "Five established festival performers take the stage for an evening of original stand-up sets. From observational humor and personal confessions to clever social commentary, each comedian brings a different perspective to familiar situations.",
+      "dateKey": "2026-11-21"
+    },
+    {
+      "id": "11",
+      "title": "Comedy on Trial",
+      "category": "Interactive Comedy Theatre",
+      "age": "16+",
+      "date": "Sat, Nov 21",
+      "time": "19:30 – 20:45",
+      "duration": 75,
+      "stage": "Studio Stage",
+      "description": "The courtroom is open, and everyday annoyances are facing serious charges. A cast of improvisers presents ridiculous cases involving loud neighbors, terrible first dates and questionable social habits, while audience members help determine the final verdicts.",
+      "dateKey": "2026-11-21"
+    },
+    {
+      "id": "12",
+      "title": "The Midnight Mic",
+      "category": "Open Mic & Stand-Up",
+      "age": "18+",
+      "date": "Sat, Nov 21",
+      "time": "22:45 – 23:45",
+      "duration": 60,
+      "stage": "Cabaret Stage",
+      "description": "A late-night collection of short stand-up sets featuring emerging comedians and surprise appearances from festival performers. With five-minute spots, an energetic host and a relaxed club atmosphere, the evening offers a constantly changing mix of comedy styles.",
+      "dateKey": "2026-11-21"
+    },
+    {
+      "id": "13",
+      "title": "Stories We Shouldn't Tell",
+      "category": "Storytelling Stand-Up",
+      "age": "16+",
+      "date": "Sun, Nov 22",
+      "time": "13:00 – 14:10",
+      "duration": 70,
+      "stage": "Studio Stage",
+      "description": "Four comedians revisit the embarrassing memories, disastrous decisions and unfortunate coincidences they would usually prefer to forget. Honest personal storytelling meets carefully crafted humor in a performance celebrating the funny side of life's most uncomfortable moments.",
+      "dateKey": "2026-11-22"
+    },
+    {
+      "id": "14",
+      "title": "The Wedding Rehearsal",
+      "category": "Situational Comedy",
+      "age": "12+",
+      "date": "Sun, Nov 22",
+      "time": "14:30 – 15:55",
+      "duration": 85,
+      "stage": "Theatre Stage",
+      "description": "A wedding rehearsal becomes a complete disaster when the best man loses his speech, the families disagree over everything and an unexpected guest arrives with a secret. This fast-moving ensemble comedy combines mistaken identities, escalating confusion and perfectly timed misunderstandings.",
+      "dateKey": "2026-11-22"
+    },
+    {
+      "id": "15",
+      "title": "The Great Improvised Mystery",
+      "category": "Improvisation & Comedy Mystery",
+      "age": "12+",
+      "date": "Sun, Nov 22",
+      "time": "16:15 – 17:30",
+      "duration": 75,
+      "stage": "Improv Stage",
+      "description": "A mysterious disappearance, a collection of suspicious characters and absolutely no script. Audience suggestions determine the setting, clues and possible suspects as a team of improvisers creates an entire detective comedy from scratch.",
+      "dateKey": "2026-11-22"
+    },
+    {
+      "id": "16",
+      "title": "Three Comics, One Hour",
+      "category": "Stand-Up Triple Bill",
+      "age": "16+",
+      "date": "Sun, Nov 22",
+      "time": "17:00 – 18:05",
+      "duration": 65,
+      "stage": "Main Stage",
+      "description": "Three comedians share the spotlight in a tightly paced show featuring contrasting approaches to stand-up. Expect sharp one-liners, relatable everyday observations and longer personal stories, with each performer delivering a distinctive twenty-minute set.",
+      "dateKey": "2026-11-22"
+    },
+    {
+      "id": "17",
+      "title": "Festival Finale: The Last Laugh",
+      "category": "Comedy Gala",
+      "age": "16+",
+      "date": "Sun, Nov 22",
+      "time": "19:30 – 21:00",
+      "duration": 90,
+      "stage": "Main Stage",
+      "description": "One final evening brings together favorite performers from across the festival for a celebratory comedy showcase. Featuring stand-up highlights, short improvised sketches, special collaborations and unexpected appearances, the closing gala delivers a lively farewell to three days of laughter.",
+      "dateKey": "2026-11-22"
+    },
+    {
+      "id": "18",
+      "title": "December Comedy Kickoff",
+      "category": "Stand-Up Showcase",
+      "age": "16+",
+      "date": "Fri, Dec 4",
+      "time": "18:00 – 19:20",
+      "duration": 80,
+      "stage": "Main Stage",
+      "description": "Six comedians welcome December with fresh material about everyday disasters, winter frustrations and the strange expectations of the holiday season. A lively opening show combining observational humor, personal stories and quick-fire punchlines.",
+      "dateKey": "2026-12-04"
+    },
+    {
+      "id": "19",
+      "title": "The Dinner Guests",
+      "category": "Comedy Theatre",
+      "age": "14+",
+      "date": "Fri, Dec 4",
+      "time": "18:30 – 19:45",
+      "duration": 75,
+      "stage": "Theatre Stage",
+      "description": "An ordinary dinner party becomes increasingly uncomfortable when two couples discover they have very different ideas about friendship, honesty and appropriate conversation. A witty stage comedy filled with awkward revelations, unexpected visitors and disastrous attempts to keep the evening civilized.",
+      "dateKey": "2026-12-04"
+    },
+    {
+      "id": "20",
+      "title": "No Filter Friday",
+      "category": "Adult Stand-Up",
+      "age": "18+",
+      "date": "Fri, Dec 4",
+      "time": "21:00 – 22:15",
+      "duration": 75,
+      "stage": "Cabaret Stage",
+      "description": "Four outspoken comedians take on modern relationships, social expectations and the absurdities of adult life. With candid storytelling, sharp observations and unapologetic humor, this late-night show offers a more provocative side of contemporary stand-up.",
+      "dateKey": "2026-12-04"
+    },
+    {
+      "id": "21",
+      "title": "Make It Up!",
+      "category": "Improvisational Comedy",
+      "age": "12+",
+      "date": "Sat, Dec 5",
+      "time": "13:00 – 14:10",
+      "duration": 70,
+      "stage": "Improv Stage",
+      "description": "Nothing is written, everything is possible. A talented group of improvisers transforms audience suggestions into ridiculous characters, unexpected conversations and completely original scenes. From imaginary workplaces to impossible family reunions, every moment is created live.",
+      "dateKey": "2026-12-05"
+    },
+    {
+      "id": "22",
+      "title": "The Dating Department",
+      "category": "Romantic Comedy Theatre",
+      "age": "16+",
+      "date": "Sat, Dec 5",
+      "time": "15:30 – 16:50",
+      "duration": 80,
+      "stage": "Theatre Stage",
+      "description": "A struggling dating agency promises to find perfect matches using a revolutionary compatibility system. Unfortunately, the technology keeps pairing completely incompatible people. A fast-moving comedy about romantic expectations, embarrassing first impressions and the unpredictable nature of human attraction.",
+      "dateKey": "2026-12-05"
+    },
+    {
+      "id": "23",
+      "title": "The Big Saturday Laugh",
+      "category": "Stand-Up Comedy",
+      "age": "16+",
+      "date": "Sat, Dec 5",
+      "time": "18:30 – 20:00",
+      "duration": 90,
+      "stage": "Main Stage",
+      "description": "Five experienced comedians share the stage for an evening of original stand-up performances. Expect hilarious personal experiences, clever social observations and contrasting comedy styles, all brought together by an energetic host.",
+      "dateKey": "2026-12-05"
+    },
+    {
+      "id": "24",
+      "title": "Who Said That?",
+      "category": "Interactive Comedy Game Show",
+      "age": "12+",
+      "date": "Sat, Dec 5",
+      "time": "20:30 – 21:40",
+      "duration": 70,
+      "stage": "Studio Stage",
+      "description": "Three comedians compete to invent the funniest explanations for bizarre statements, unusual situations and fictional conversations. Audience members help select the winning responses as the competition becomes progressively more unpredictable.",
+      "dateKey": "2026-12-05"
+    },
+    {
+      "id": "25",
+      "title": "Parents Just Don't Understand",
+      "category": "Family Comedy & Storytelling",
+      "age": "12+",
+      "date": "Sun, Dec 6",
+      "time": "14:00 – 15:15",
+      "duration": 75,
+      "stage": "Theatre Stage",
+      "description": "A humorous look at the everyday misunderstandings between parents, teenagers and grandparents. Through relatable stories and short theatrical sketches, the performers explore family traditions, household arguments and the challenges of living under the same roof.",
+      "dateKey": "2026-12-06"
+    },
+    {
+      "id": "26",
+      "title": "The Sunday Comedy Club",
+      "category": "Stand-Up Triple Bill",
+      "age": "16+",
+      "date": "Sun, Dec 6",
+      "time": "17:00 – 18:15",
+      "duration": 75,
+      "stage": "Cabaret Stage",
+      "description": "Three comedians, three personalities and three completely different perspectives on everyday life. This intimate comedy club experience features longer individual sets, spontaneous interactions and a relaxed atmosphere that brings performers closer to the audience.",
+      "dateKey": "2026-12-06"
+    },
+    {
+      "id": "27",
+      "title": "The Art of Bad Decisions",
+      "category": "Storytelling Stand-Up",
+      "age": "16+",
+      "date": "Fri, Dec 11",
+      "time": "19:00 – 20:20",
+      "duration": 80,
+      "stage": "Main Stage",
+      "description": "Four storytellers revisit the decisions they immediately regretted, from disastrous holidays to unfortunate workplace misunderstandings. Their personal experiences become a collection of hilarious cautionary tales about confidence, coincidence and spectacularly poor judgment.",
+      "dateKey": "2026-12-11"
+    },
+    {
+      "id": "28",
+      "title": "Improv After Dark",
+      "category": "Late-Night Improvisation",
+      "age": "18+",
+      "date": "Fri, Dec 11",
+      "time": "21:00 – 22:15",
+      "duration": 75,
+      "stage": "Improv Stage",
+      "description": "An unpredictable improvisational performance where audience suggestions inspire outrageous characters, uncomfortable situations and unexpected storylines. With no prepared dialogue and no restrictions on where the stories might go, the performers build an entirely original comedy experience.",
+      "dateKey": "2026-12-11"
+    },
+    {
+      "id": "29",
+      "title": "The Office Christmas Party",
+      "category": "Workplace Comedy Theatre",
+      "age": "14+",
+      "date": "Sat, Dec 12",
+      "time": "15:00 – 16:25",
+      "duration": 85,
+      "stage": "Theatre Stage",
+      "description": "A company Christmas celebration goes spectacularly wrong when a motivational speech reveals a management secret, an anonymous gift exchange causes confusion and several employees attempt to impress the same executive. This festive workplace comedy captures the chaos of an office party nobody will forget.",
+      "dateKey": "2026-12-12"
+    },
+    {
+      "id": "30",
+      "title": "Roast Battle: Holiday Edition",
+      "category": "Comedy Roast Battle",
+      "age": "18+",
+      "date": "Sat, Dec 12",
+      "time": "18:30 – 20:00",
+      "duration": 90,
+      "stage": "Main Stage",
+      "description": "Eight comedians face each other in a series of head-to-head roast battles, exchanging carefully prepared jokes and spontaneous comebacks. A host keeps the competition moving while a panel of comedy judges selects the winners of each round.",
+      "dateKey": "2026-12-12"
+    },
+    {
+      "id": "31",
+      "title": "The Audience Is the Script",
+      "category": "Interactive Improvisational Theatre",
+      "age": "12+",
+      "date": "Sun, Dec 13",
+      "time": "16:00 – 17:15",
+      "duration": 75,
+      "stage": "Improv Stage",
+      "description": "What happens when the audience becomes the creative team? Every scene begins with a suggestion from the crowd, whether it is an unusual location, an impossible profession or a completely unexpected relationship. Five improvisers turn these ideas into a series of connected comedy sketches.",
+      "dateKey": "2026-12-13"
+    },
+    {
+      "id": "32",
+      "title": "Absolutely Normal People",
+      "category": "Observational Stand-Up",
+      "age": "16+",
+      "date": "Fri, Dec 18",
+      "time": "19:30 – 20:45",
+      "duration": 75,
+      "stage": "Main Stage",
+      "description": "A collection of stories about the peculiar habits people consider perfectly normal. Four comedians examine everyday conversations, public transport behavior, strange friendships and the little social rules nobody remembers agreeing to.",
+      "dateKey": "2026-12-18"
+    },
+    {
+      "id": "33",
+      "title": "Christmas With the Neighbors",
+      "category": "Festive Comedy Theatre",
+      "age": "12+",
+      "date": "Sat, Dec 19",
+      "time": "16:00 – 17:20",
+      "duration": 80,
+      "stage": "Theatre Stage",
+      "description": "Two neighboring families accidentally arrange their Christmas celebrations for the same evening, leading to a competition over decorations, food and hospitality. As small disagreements turn into elaborate misunderstandings, both households discover that holiday perfection is harder to achieve than expected.",
+      "dateKey": "2026-12-19"
+    },
+    {
+      "id": "34",
+      "title": "The Unscripted Christmas Show",
+      "category": "Festive Improvisation",
+      "age": "12+",
+      "date": "Sat, Dec 19",
+      "time": "20:00 – 21:30",
+      "duration": 90,
+      "stage": "Main Stage",
+      "description": "A festive evening of completely improvised comedy inspired by holiday traditions, family gatherings and unexpected seasonal disasters. Six performers create sketches, fictional characters and spontaneous musical moments using suggestions from the audience.",
+      "dateKey": "2026-12-19"
+    }
+  ],
+  "foods": [
+    {
+      "id": "1",
+      "title": "Classic Cheeseburger",
+      "category": "Main Dishes",
+      "price": "€10.50",
+      "vendor": "Bun Intended",
+      "location": "Food Court A",
+      "description": "A juicy grilled beef patty topped with melted cheddar, crisp lettuce, tomato, pickles, and classic burger sauce in a lightly toasted sesame bun.",
+      "ingredients": "Beef, sesame bun, cheddar cheese, lettuce, tomato, pickles, onion, burger sauce.",
+      "allergens": "Gluten, Dairy, Sesame, Eggs, Mustard",
+      "serving": "Served with a small portion of seasoned fries."
+    },
+    {
+      "id": "2",
+      "title": "Crispy Chicken Burger",
+      "category": "Main Dishes",
+      "price": "€10.90",
+      "vendor": "Bun Intended",
+      "location": "Food Court A",
+      "description": "Golden-fried chicken breast coated in a crunchy seasoned crust, served with fresh coleslaw, sliced pickles, and creamy garlic mayonnaise in a soft brioche bun.",
+      "ingredients": "Chicken breast, brioche bun, cabbage, carrot, pickles, flour, garlic mayonnaise, spices.",
+      "allergens": "Gluten, Dairy, Eggs, Mustard",
+      "serving": "Served in a burger box with a side of crispy potato wedges."
+    },
+    {
+      "id": "3",
+      "title": "BBQ Pulled Pork Sandwich",
+      "category": "Main Dishes",
+      "price": "€11.90",
+      "vendor": "Smoke & Jokes BBQ",
+      "location": "Food Court B",
+      "description": "Slow-cooked pork shoulder shredded and tossed in smoky barbecue sauce, topped with tangy red cabbage slaw and crispy onions inside a toasted bread roll.",
+      "ingredients": "Pulled pork, bread roll, barbecue sauce, red cabbage, carrots, crispy onions, apple cider vinegar.",
+      "allergens": "Gluten, Mustard",
+      "serving": "Served with coleslaw and a small portion of kettle chips."
+    },
+    {
+      "id": "4",
+      "title": "Chicken Shawarma Wrap",
+      "category": "Main Dishes",
+      "price": "€9.80",
+      "vendor": "Wrap It Up",
+      "location": "Street Food Lane",
+      "description": "Tender marinated chicken wrapped in warm flatbread with crunchy lettuce, tomatoes, red onions, cucumber, and a refreshing garlic yogurt dressing.",
+      "ingredients": "Chicken thighs, flatbread, lettuce, tomato, cucumber, red onion, yogurt, garlic, shawarma spices.",
+      "allergens": "Gluten, Dairy",
+      "serving": "Wrapped in greaseproof paper for convenient eating around the festival."
+    },
+    {
+      "id": "5",
+      "title": "Margherita Pizza",
+      "category": "Main Dishes",
+      "price": "€10.00",
+      "vendor": "Slice of Laughs",
+      "location": "Food Court B",
+      "description": "A freshly baked thin-crust pizza topped with rich tomato sauce, melted mozzarella, fragrant basil, and a drizzle of extra virgin olive oil.",
+      "ingredients": "Pizza dough, tomato sauce, mozzarella, fresh basil, olive oil, salt.",
+      "allergens": "Gluten, Dairy",
+      "serving": "Served as a whole individual pizza, approximately 28 cm in diameter."
+    },
+    {
+      "id": "6",
+      "title": "Pepperoni Pizza",
+      "category": "Main Dishes",
+      "price": "€12.50",
+      "vendor": "Slice of Laughs",
+      "location": "Food Court B",
+      "description": "A thin, crispy pizza generously topped with mozzarella, mildly spicy pepperoni, and a slow-cooked tomato sauce, finished with a sprinkle of oregano.",
+      "ingredients": "Pizza dough, tomato sauce, mozzarella, pepperoni, oregano, olive oil.",
+      "allergens": "Gluten, Dairy",
+      "serving": "Served freshly sliced in a recyclable pizza box."
+    },
+    {
+      "id": "7",
+      "title": "Creamy Mac & Cheese",
+      "category": "Main Dishes",
+      "price": "€8.90",
+      "vendor": "The Comfort Kitchen",
+      "location": "Food Court A",
+      "description": "Tender macaroni pasta coated in a rich three-cheese sauce made with mature cheddar, mozzarella, and Parmesan, finished with golden toasted breadcrumbs.",
+      "ingredients": "Macaroni, cheddar, mozzarella, Parmesan, milk, butter, flour, breadcrumbs, black pepper.",
+      "allergens": "Gluten, Dairy",
+      "serving": "Served hot in a deep takeaway bowl with a wooden fork."
+    },
+    {
+      "id": "8",
+      "title": "Grilled Halloumi Bowl",
+      "category": "Main Dishes",
+      "price": "€11.50",
+      "vendor": "Green Room Kitchen",
+      "location": "Garden Food Zone",
+      "description": "Golden grilled halloumi served over fluffy couscous with roasted peppers, cherry tomatoes, cucumber, mixed greens, and a refreshing lemon-herb dressing.",
+      "ingredients": "Halloumi, couscous, roasted peppers, cherry tomatoes, cucumber, lettuce, lemon juice, olive oil, parsley.",
+      "allergens": "Gluten, Dairy",
+      "serving": "Served in a bowl with lemon dressing on the side."
+    },
+    {
+      "id": "9",
+      "title": "Teriyaki Chicken Rice Bowl",
+      "category": "Main Dishes",
+      "price": "€12.50",
+      "vendor": "Street Bowl Co.",
+      "location": "Food Court B",
+      "description": "Grilled chicken glazed with sweet and savory teriyaki sauce, served over steamed jasmine rice with sautéed vegetables, sesame seeds, and sliced spring onions.",
+      "ingredients": "Chicken breast, jasmine rice, soy sauce, sugar, ginger, garlic, broccoli, carrots, sesame seeds, spring onions.",
+      "allergens": "Soy, Gluten, Sesame",
+      "serving": "Served warm in a deep bowl with a separate wooden fork."
+    },
+    {
+      "id": "10",
+      "title": "Mediterranean Falafel Wrap",
+      "category": "Main Dishes",
+      "price": "€9.50",
+      "vendor": "Green Room Kitchen",
+      "location": "Garden Food Zone",
+      "description": "Crispy chickpea falafel wrapped in soft flatbread with hummus, lettuce, cucumber, pickled red cabbage, and a smooth tahini dressing.",
+      "ingredients": "Chickpeas, flatbread, hummus, cucumber, lettuce, red cabbage, tahini, lemon, parsley, spices.",
+      "allergens": "Gluten, Sesame",
+      "serving": "Served as a sliced wrap with extra tahini dressing."
+    },
+    {
+      "id": "11",
+      "title": "Loaded Festival Fries",
+      "category": "Street Food",
+      "price": "€7.90",
+      "vendor": "Fry Me a Joke",
+      "location": "Street Food Lane",
+      "description": "A generous portion of crispy golden fries topped with melted cheddar sauce, smoky bacon pieces, spring onions, and a drizzle of creamy ranch dressing.",
+      "ingredients": "Potatoes, cheddar cheese sauce, bacon, spring onions, ranch dressing, paprika.",
+      "allergens": "Dairy, Eggs, Mustard",
+      "serving": "Served in a large paper tray with a wooden fork."
+    },
+    {
+      "id": "12",
+      "title": "Crispy Chicken Tenders",
+      "category": "Street Food",
+      "price": "€8.50",
+      "vendor": "Crunch Time",
+      "location": "Food Court A",
+      "description": "Five strips of tender chicken breast coated in seasoned breadcrumbs and fried until golden and crunchy, served with a choice of honey mustard or smoky barbecue sauce.",
+      "ingredients": "Chicken breast, flour, breadcrumbs, eggs, paprika, garlic powder, salt, dipping sauce.",
+      "allergens": "Gluten, Eggs, Mustard",
+      "serving": "Five chicken tenders with one dipping sauce."
+    },
+    {
+      "id": "13",
+      "title": "Mini Beef Sliders",
+      "category": "Street Food",
+      "price": "€9.90",
+      "vendor": "Bun Intended",
+      "location": "Food Court A",
+      "description": "Three miniature beef burgers with melted cheddar, caramelized onions, pickles, and classic burger sauce, each served in a soft toasted bun.",
+      "ingredients": "Beef, mini burger buns, cheddar, onions, pickles, burger sauce, butter.",
+      "allergens": "Gluten, Dairy, Eggs, Mustard",
+      "serving": "Three sliders presented in a cardboard serving tray."
+    },
+    {
+      "id": "14",
+      "title": "Korean-Style Chicken Bites",
+      "category": "Street Food",
+      "price": "€9.50",
+      "vendor": "Crunch Time",
+      "location": "Street Food Lane",
+      "description": "Crispy boneless chicken pieces coated in a glossy sweet-and-spicy Korean-inspired sauce, finished with sesame seeds and thinly sliced spring onions.",
+      "ingredients": "Chicken thigh, flour, potato starch, soy sauce, gochujang, honey, garlic, sesame seeds, spring onions.",
+      "allergens": "Gluten, Soy, Sesame",
+      "serving": "Served in a takeaway bowl with a small wooden fork."
+    },
+    {
+      "id": "15",
+      "title": "Loaded Nachos",
+      "category": "Street Food",
+      "price": "€8.90",
+      "vendor": "Fiesta Bites",
+      "location": "Food Court B",
+      "description": "Crunchy tortilla chips layered with warm cheese sauce, black beans, fresh tomato salsa, jalapeños, and sour cream, finished with chopped coriander.",
+      "ingredients": "Corn tortilla chips, cheddar cheese sauce, black beans, tomatoes, jalapeños, sour cream, coriander, onion, lime juice.",
+      "allergens": "Dairy",
+      "serving": "Served in a sharing tray with salsa and sour cream."
+    },
+    {
+      "id": "16",
+      "title": "Classic Hot Dog",
+      "category": "Street Food",
+      "price": "€6.90",
+      "vendor": "The Hot Dog Spot",
+      "location": "Street Food Lane",
+      "description": "A grilled pork sausage served in a warm, soft bun with caramelized onions, classic mustard, and tomato ketchup.",
+      "ingredients": "Pork sausage, hot dog bun, onions, mustard, ketchup, sunflower oil.",
+      "allergens": "Gluten, Mustard",
+      "serving": "Served in a paper hot dog tray with a napkin."
+    },
+    {
+      "id": "17",
+      "title": "Garlic Parmesan Fries",
+      "category": "Snacks & Sides",
+      "price": "€5.50",
+      "vendor": "Fry Me a Joke",
+      "location": "Street Food Lane",
+      "description": "Thin-cut golden fries tossed with garlic butter, grated Parmesan, and fresh parsley for a rich, savory finish.",
+      "ingredients": "Potatoes, garlic, butter, Parmesan, parsley, salt.",
+      "allergens": "Dairy",
+      "serving": "Served in a paper cone with a small portion of garlic mayonnaise."
+    },
+    {
+      "id": "18",
+      "title": "Mozzarella Sticks",
+      "category": "Snacks & Sides",
+      "price": "€6.90",
+      "vendor": "Crunch Time",
+      "location": "Food Court A",
+      "description": "Six crispy breadcrumb-coated mozzarella sticks with a soft, melted cheese center, accompanied by a tangy tomato and basil dipping sauce.",
+      "ingredients": "Mozzarella, breadcrumbs, flour, eggs, tomato sauce, basil, oregano.",
+      "allergens": "Gluten, Dairy, Eggs",
+      "serving": "Six mozzarella sticks with a small container of marinara sauce."
+    },
+    {
+      "id": "19",
+      "title": "Salted Pretzel",
+      "category": "Snacks & Sides",
+      "price": "€4.50",
+      "vendor": "The Snack Booth",
+      "location": "Garden Food Zone",
+      "description": "A freshly baked soft pretzel with a golden crust, fluffy center, and a sprinkle of coarse sea salt. A simple festival snack with a traditional bakery flavor.",
+      "ingredients": "Wheat flour, yeast, water, butter, sugar, salt, baking soda.",
+      "allergens": "Gluten, Dairy",
+      "serving": "Served warm in a paper sleeve with optional mustard dip."
+    },
+    {
+      "id": "20",
+      "title": "Chocolate Brownie",
+      "category": "Desserts",
+      "price": "€5.90",
+      "vendor": "Sweet Punchline",
+      "location": "Dessert Corner",
+      "description": "A rich chocolate brownie with a soft, fudgy center and delicate crackled top, made with dark chocolate and butter for an intense cocoa flavor.",
+      "ingredients": "Dark chocolate, butter, flour, sugar, eggs, cocoa powder, vanilla.",
+      "allergens": "Gluten, Dairy, Eggs, Soy",
+      "serving": "Served as a generous square with a light dusting of powdered sugar."
+    },
+    {
+      "id": "21",
+      "title": "New York Cheesecake",
+      "category": "Desserts",
+      "price": "€6.50",
+      "vendor": "Sweet Punchline",
+      "location": "Dessert Corner",
+      "description": "A smooth and creamy baked cheesecake with a buttery biscuit base, finished with a vibrant strawberry topping and a hint of fresh lemon.",
+      "ingredients": "Cream cheese, biscuits, butter, sugar, eggs, sour cream, strawberries, lemon.",
+      "allergens": "Gluten, Dairy, Eggs",
+      "serving": "Served as an individual slice with strawberry sauce."
+    },
+    {
+      "id": "22",
+      "title": "Cinnamon Sugar Churros",
+      "category": "Desserts",
+      "price": "€5.50",
+      "vendor": "Dough & Laughs",
+      "location": "Street Food Lane",
+      "description": "Freshly fried churros coated in cinnamon sugar, with a crisp golden exterior and soft center, accompanied by warm chocolate dipping sauce.",
+      "ingredients": "Wheat flour, water, butter, sugar, cinnamon, chocolate, cream.",
+      "allergens": "Gluten, Dairy, Soy",
+      "serving": "Six churros served in a paper cup with chocolate dipping sauce."
+    },
+    {
+      "id": "23",
+      "title": "Belgian Waffle",
+      "category": "Desserts",
+      "price": "€7.50",
+      "vendor": "Dough & Laughs",
+      "location": "Dessert Corner",
+      "description": "A freshly baked Belgian waffle with a lightly crisp exterior and fluffy center, topped with sliced strawberries, whipped cream, and warm chocolate sauce.",
+      "ingredients": "Flour, eggs, milk, butter, sugar, baking powder, strawberries, cream, chocolate sauce.",
+      "allergens": "Gluten, Dairy, Eggs, Soy",
+      "serving": "Served on a disposable dessert plate with a fork."
+    },
+    {
+      "id": "24",
+      "title": "Mini Doughnut Box",
+      "category": "Desserts",
+      "price": "€6.90",
+      "vendor": "Dough & Laughs",
+      "location": "Dessert Corner",
+      "description": "A selection of eight freshly prepared mini doughnuts with soft centers and golden exteriors, finished with a combination of cinnamon sugar, chocolate glaze, and vanilla icing.",
+      "ingredients": "Wheat flour, milk, eggs, butter, sugar, yeast, cinnamon, chocolate, vanilla icing.",
+      "allergens": "Gluten, Dairy, Eggs, Soy",
+      "serving": "Eight assorted mini doughnuts presented in a small takeaway box."
+    },
+    {
+      "id": "25",
+      "title": "Iced Caramel Latte",
+      "category": "Coffee & Tea",
+      "price": "€5.50",
+      "vendor": "Laughing Beans Coffee",
+      "location": "Garden Food Zone",
+      "description": "A refreshing combination of freshly brewed espresso, chilled milk, and smooth caramel syrup poured over ice. Finished with a delicate drizzle of caramel sauce for a balanced sweetness and rich coffee flavor.",
+      "ingredients": "Espresso, milk, caramel syrup, caramel sauce, ice.",
+      "allergens": "Dairy",
+      "serving": "Served in a 400 ml clear takeaway cup with ice and caramel drizzle."
+    },
+    {
+      "id": "26",
+      "title": "Strawberry Lemonade",
+      "category": "Soft Drinks",
+      "price": "€4.90",
+      "vendor": "The Refreshment Stand",
+      "location": "Food Court A",
+      "description": "A refreshing blend of freshly squeezed lemon juice, sweet strawberry purée, and chilled sparkling water. Lightly sweetened and finished with fresh fruit for a bright, fruity flavor.",
+      "ingredients": "Lemon juice, strawberry purée, sparkling water, sugar syrup, fresh strawberries, mint, ice.",
+      "allergens": "None of the 14 major EU allergens in the standard recipe.",
+      "serving": "Served in a 450 ml cup with ice, strawberry slices, and fresh mint."
+    },
+    {
+      "id": "27",
+      "title": "Vanilla Cold Brew",
+      "category": "Coffee & Tea",
+      "price": "€5.20",
+      "vendor": "Laughing Beans Coffee",
+      "location": "Garden Food Zone",
+      "description": "Smooth cold-brewed coffee with naturally mellow notes, lightly sweetened with vanilla syrup and finished with a splash of cold milk. A refreshing alternative to traditional iced coffee.",
+      "ingredients": "Cold brew coffee, milk, vanilla syrup, ice.",
+      "allergens": "Dairy",
+      "serving": "Served in a 400 ml takeaway cup with ice."
+    },
+    {
+      "id": "28",
+      "title": "Tropical Mango Cooler",
+      "category": "Mocktails",
+      "price": "€6.50",
+      "vendor": "Punchline Bar",
+      "location": "Main Stage Bar",
+      "description": "A vibrant non-alcoholic tropical drink combining ripe mango purée, pineapple juice, fresh lime, and sparkling water. Refreshing, fruity, and slightly tangy, with a naturally sweet tropical finish.",
+      "ingredients": "Mango purée, pineapple juice, lime juice, sparkling water, sugar syrup, ice.",
+      "allergens": "None of the 14 major EU allergens in the standard recipe.",
+      "serving": "Served in a 450 ml cup with crushed ice, a lime wedge, and a pineapple garnish."
+    },
+    {
+      "id": "29",
+      "title": "Classic Mojito",
+      "category": "Cocktails",
+      "price": "€9.50",
+      "vendor": "Punchline Bar",
+      "location": "Main Stage Bar",
+      "description": "A refreshing Cuban-style cocktail combining white rum, freshly squeezed lime, aromatic mint, and sparkling soda water. Lightly sweetened for a crisp, citrus-forward flavor.",
+      "ingredients": "White rum, fresh lime juice, mint leaves, cane sugar, soda water, crushed ice.",
+      "allergens": "None of the 14 major EU allergens in the standard recipe.",
+      "serving": "Served in a 350 ml highball glass with crushed ice, fresh mint, and a lime wedge."
+    },
+    {
+      "id": "30",
+      "title": "Raspberry Gin Fizz",
+      "category": "Cocktails",
+      "price": "€10.50",
+      "vendor": "The Comedy Club Bar",
+      "location": "Cabaret Stage",
+      "description": "A refreshing gin cocktail featuring fresh raspberry notes, tangy lemon juice, and a delicate sparkling finish. Its balance of botanical flavors and berry sweetness makes it an elegant festival evening drink.",
+      "ingredients": "London dry gin, raspberry purée, lemon juice, sugar syrup, soda water, ice.",
+      "allergens": "None of the 14 major EU allergens in the standard recipe.",
+      "serving": "Served in a 350 ml tall glass with ice, fresh raspberries, and a lemon slice."
+    },
+    {
+      "id": "31",
+      "title": "Watermelon Mint Sparkler",
+      "category": "Mocktails",
+      "price": "€6.20",
+      "vendor": "The Refreshment Stand",
+      "location": "Food Court B",
+      "description": "A light and refreshing non-alcoholic drink made with fresh watermelon juice, aromatic mint, lime, and sparkling water. Naturally fruity with a gentle citrus finish, perfect for enjoying between comedy performances.",
+      "ingredients": "Watermelon juice, lime juice, fresh mint, sparkling water, agave syrup, ice.",
+      "allergens": "None of the 14 major EU allergens in the standard recipe.",
+      "serving": "Served in a 450 ml takeaway cup with ice, watermelon cubes, and a fresh mint garnish."
+    }
+  ],
+  "challenges": [
+    {
+      "id": "1",
+      "title": "Create Your Comedy Stage Name",
+      "category": "FUNNY QUESTION",
+      "description": "Every great comedian needs a memorable stage name. Forget your real identity for a moment and invent something ridiculous, clever, or completely unexpected that would look perfect on a comedy festival poster.",
+      "steps": [
+        "Imagine yourself performing on the main festival stage.",
+        "Invent an original comedy stage name.",
+        "Write a short explanation of why you chose it."
+      ],
+      "fields": [
+        {
+          "label": "Your stage name",
+          "placeholder": "Enter your comedy stage name...",
+          "optional": false
+        },
+        {
+          "label": "Why this name?",
+          "placeholder": "Tell us the story behind your name...",
+          "optional": false
+        }
+      ],
+      "photo": false,
+      "rating": false,
+      "wordLimit": 0
+    },
+    {
+      "id": "2",
+      "title": "The Ultimate Comedy Selfie",
+      "category": "PHOTO CHALLENGE",
+      "description": "Find the perfect festival backdrop and capture a selfie that looks like it belongs on the poster of a hilarious comedy special. A dramatic pose, an exaggerated reaction, or an unexpectedly serious expression can make the moment even better.",
+      "steps": [
+        "Find a suitable photo spot at the festival.",
+        "Take a selfie with your funniest facial expression.",
+        "Add a creative title for your imaginary comedy special.",
+        "Save your photo and title to complete the challenge."
+      ],
+      "fields": [
+        {
+          "label": "Comedy special title",
+          "placeholder": "My first comedy special is called...",
+          "optional": false
+        }
+      ],
+      "photo": true,
+      "rating": false,
+      "wordLimit": 0
+    },
+    {
+      "id": "3",
+      "title": "The Worst Superpower Ever",
+      "category": "CREATIVE WRITING",
+      "description": "Flying and invisibility are impressive, but what about the ability to make every elevator stop on the wrong floor? Invent a completely useless superpower and explain why nobody would ever want it.",
+      "steps": [
+        "Think of a superpower that sounds impressive but has a ridiculous limitation.",
+        "Describe what makes it completely useless."
+      ],
+      "fields": [
+        {
+          "label": "Your useless superpower",
+          "placeholder": "My superpower is...",
+          "optional": false
+        }
+      ],
+      "photo": false,
+      "rating": false,
+      "wordLimit": 0
+    },
+    {
+      "id": "4",
+      "title": "Describe Your Day as a Movie",
+      "category": "FESTIVAL EXPERIENCE",
+      "description": "Imagine your festival visit is being turned into a comedy movie. Every unexpected moment becomes part of the plot, and you're the main character. Give your day a hilarious movie title and describe its most memorable scene.",
+      "steps": [
+        "Think about the funniest or most unexpected moment of your festival visit.",
+        "Create an original comedy movie title.",
+        "Write a short description of the movie's plot.",
+        "Invent a dramatic tagline that would appear on its poster."
+      ],
+      "fields": [
+        {
+          "label": "Movie title",
+          "placeholder": "The title of my comedy movie...",
+          "optional": false
+        },
+        {
+          "label": "Movie description",
+          "placeholder": "It all started when...",
+          "optional": false
+        },
+        {
+          "label": "Movie tagline",
+          "placeholder": "One unforgettable day...",
+          "optional": false
+        }
+      ],
+      "photo": false,
+      "rating": false,
+      "wordLimit": 0
+    },
+    {
+      "id": "5",
+      "title": "Give This Object a Personality",
+      "category": "CREATIVE WRITING",
+      "description": "What if an ordinary festival object could talk? A microphone might complain about terrible jokes, a folding chair could reveal its secrets, or a coffee cup might have strong opinions about early performances.",
+      "steps": [
+        "Choose an ordinary object you might find at the festival.",
+        "Imagine its personality, mood, and biggest complaint.",
+        "Write a short monologue from the object's perspective."
+      ],
+      "fields": [
+        {
+          "label": "Object name",
+          "placeholder": "Choose your object...",
+          "optional": false
+        },
+        {
+          "label": "Your object's monologue",
+          "placeholder": "If I could talk, I'd say...",
+          "optional": false
+        }
+      ],
+      "photo": false,
+      "rating": false,
+      "wordLimit": 0
+    },
+    {
+      "id": "6",
+      "title": "Find the Funniest Sign",
+      "category": "PHOTO CHALLENGE",
+      "description": "Sometimes an ordinary sign becomes hilarious when you look at it from a different perspective. Find a festival sign, direction marker, or unusual visual detail that could inspire an unexpected joke.",
+      "steps": [
+        "Explore the festival and look for an interesting sign or visual detail.",
+        "Take a clear photo of your discovery.",
+        "Invent a funny alternative meaning for what you photographed.",
+        "Write a caption explaining your interpretation."
+      ],
+      "fields": [
+        {
+          "label": "Your funny interpretation",
+          "placeholder": "What this sign really means...",
+          "optional": false
+        }
+      ],
+      "photo": true,
+      "rating": false,
+      "wordLimit": 0
+    },
+    {
+      "id": "7",
+      "title": "The World's Worst Excuse",
+      "category": "CREATIVE WRITING",
+      "description": "You've arrived late to the most important comedy show of the year, and now you need an explanation. Unfortunately, the truth is far too ordinary. Invent an excuse so ridiculous that nobody could possibly believe it.",
+      "steps": [
+        "Imagine arriving 20 minutes late to a comedy performance.",
+        "Write the most outrageous excuse you can invent."
+      ],
+      "fields": [
+        {
+          "label": "Your excuse",
+          "placeholder": "I'm late because...",
+          "optional": false
+        }
+      ],
+      "photo": false,
+      "rating": false,
+      "wordLimit": 0
+    },
+    {
+      "id": "8",
+      "title": "Rate Your Laugh",
+      "category": "FESTIVAL EXPERIENCE",
+      "description": "Not every laugh is the same. Some jokes produce a quiet smile, while others make it almost impossible to breathe. Think about a performance you've enjoyed and describe your reaction in the most entertaining way possible.",
+      "steps": [
+        "Choose a comedy performance you've attended.",
+        "Rate how funny you found it on a scale from 1 to 10.",
+        "Describe the moment that made you laugh the hardest.",
+        "Invent a funny name for your personal laughter level."
+      ],
+      "fields": [
+        {
+          "label": "Performance name",
+          "placeholder": "Which show made you laugh?",
+          "optional": false
+        },
+        {
+          "label": "Funniest moment",
+          "placeholder": "I couldn't stop laughing when...",
+          "optional": false
+        },
+        {
+          "label": "Your laughter level",
+          "placeholder": "Maximum giggle overload...",
+          "optional": false
+        }
+      ],
+      "photo": false,
+      "rating": true,
+      "wordLimit": 0
+    },
+    {
+      "id": "9",
+      "title": "The Comedy Prop Hunt",
+      "category": "PHOTO CHALLENGE",
+      "description": "A great comedian can turn almost anything into a joke. Look around the festival for an interesting object that could become part of a hilarious stand-up routine or theatrical sketch.",
+      "steps": [
+        "Find an unusual or ordinary object in an accessible festival area.",
+        "Take a photo without disturbing other visitors.",
+        "Imagine how a comedian could use it during a performance.",
+        "Write a short joke or funny description involving the object.",
+        "Save your creative discovery."
+      ],
+      "fields": [
+        {
+          "label": "Your prop idea",
+          "placeholder": "This object would be hilarious because...",
+          "optional": false
+        }
+      ],
+      "photo": true,
+      "rating": false,
+      "wordLimit": 0
+    },
+    {
+      "id": "10",
+      "title": "Invent a Ridiculous Festival Rule",
+      "category": "FUNNY QUESTION",
+      "description": "Every festival needs rules, but yours don't have to make sense. Imagine becoming the official director of comedy regulations and introducing one completely absurd rule that everyone must follow.",
+      "steps": [
+        "Invent a ridiculous rule for the festival.",
+        "Explain what happens when someone breaks it.",
+        "Give your rule an official-sounding name."
+      ],
+      "fields": [
+        {
+          "label": "Your festival rule",
+          "placeholder": "All festival visitors must...",
+          "optional": false
+        },
+        {
+          "label": "Consequence",
+          "placeholder": "Anyone who breaks this rule...",
+          "optional": false
+        },
+        {
+          "label": "Official rule name",
+          "placeholder": "Regulation No. 001...",
+          "optional": false
+        }
+      ],
+      "photo": false,
+      "rating": false,
+      "wordLimit": 0
+    },
+    {
+      "id": "11",
+      "title": "Caption the Unexpected",
+      "category": "PHOTO CHALLENGE",
+      "description": "A simple photograph can become a hilarious story with the right caption. Capture an unusual detail, an amusing object, or a funny coincidence somewhere around the festival.",
+      "steps": [
+        "Take or select a photo from your festival experience.",
+        "Add a short, unexpected caption that changes how people might interpret the image."
+      ],
+      "fields": [
+        {
+          "label": "Your caption",
+          "placeholder": "Nobody expected this...",
+          "optional": false
+        }
+      ],
+      "photo": true,
+      "rating": false,
+      "wordLimit": 0
+    },
+    {
+      "id": "12",
+      "title": "One Sentence, Three Genres",
+      "category": "CREATIVE WRITING",
+      "description": "A single ordinary sentence can become a comedy masterpiece when delivered in completely different styles. Transform a simple statement into three entertaining versions using your imagination.",
+      "steps": [
+        "Start with the sentence: \"I forgot my ticket.\"",
+        "Rewrite it as a dramatic theatrical confession.",
+        "Turn it into a sarcastic stand-up observation.",
+        "Create a ridiculously exaggerated version.",
+        "Compare your three responses and save your favorite creations."
+      ],
+      "fields": [
+        {
+          "label": "Dramatic version",
+          "placeholder": "Write your theatrical confession...",
+          "optional": false
+        },
+        {
+          "label": "Sarcastic version",
+          "placeholder": "Write your stand-up observation...",
+          "optional": false
+        },
+        {
+          "label": "Exaggerated version",
+          "placeholder": "Make the situation completely ridiculous...",
+          "optional": false
+        }
+      ],
+      "photo": false,
+      "rating": false,
+      "wordLimit": 0
+    },
+    {
+      "id": "13",
+      "title": "The Festival Survival Story",
+      "category": "FESTIVAL EXPERIENCE",
+      "description": "Every festival adventure has its little challenges. Maybe you got lost between stages, accidentally joined the wrong queue, or spent ten minutes searching for your friends. Turn an ordinary festival mishap into a funny short story.",
+      "steps": [
+        "Remember a small, amusing situation from your festival visit.",
+        "Describe what happened and how you reacted.",
+        "Add a humorous ending or unexpected twist."
+      ],
+      "fields": [
+        {
+          "label": "Your festival story",
+          "placeholder": "Everything was going perfectly until...",
+          "optional": false
+        }
+      ],
+      "photo": false,
+      "rating": false,
+      "wordLimit": 0
+    },
+    {
+      "id": "14",
+      "title": "The Worst Comedy Advice",
+      "category": "FUNNY QUESTION",
+      "description": "Imagine a completely unqualified comedy coach offering advice to a nervous performer. Instead of helping, every suggestion makes the situation much worse. What terrible recommendation would your fictional coach give?",
+      "steps": [
+        "Imagine a comedian preparing for their first performance.",
+        "Invent the worst possible piece of stage advice.",
+        "Explain what could happen if the comedian followed it.",
+        "Give your imaginary comedy coach a ridiculous name."
+      ],
+      "fields": [
+        {
+          "label": "Terrible advice",
+          "placeholder": "Before every joke, you should...",
+          "optional": false
+        },
+        {
+          "label": "Possible consequences",
+          "placeholder": "This would probably result in...",
+          "optional": false
+        },
+        {
+          "label": "Your coach's name",
+          "placeholder": "Professor Punchline Disaster...",
+          "optional": false
+        }
+      ],
+      "photo": false,
+      "rating": false,
+      "wordLimit": 0
+    },
+    {
+      "id": "15",
+      "title": "My Festival in Five Words",
+      "category": "FESTIVAL EXPERIENCE",
+      "description": "Can you describe an entire comedy festival experience using only five words? Think about the performances, unexpected moments, unforgettable jokes, and everything that made your visit special.",
+      "steps": [
+        "Think about the atmosphere and your favorite festival experiences.",
+        "Choose exactly five words that capture your visit.",
+        "Arrange them into the funniest or most memorable combination."
+      ],
+      "fields": [
+        {
+          "label": "Your five-word festival story",
+          "placeholder": "Five words. One unforgettable festival...",
+          "optional": false
+        }
+      ],
+      "photo": false,
+      "rating": false,
+      "wordLimit": 5
+    },
+    {
+      "id": "16",
+      "title": "The Imaginary Comedy Poster",
+      "category": "PHOTO CHALLENGE",
+      "description": "Every unforgettable comedy show deserves an equally unforgettable poster. Find a suitable festival background, create a dramatic pose or photograph an amusing arrangement of objects, then invent an original title for your imaginary performance.",
+      "steps": [
+        "Choose a location or visual composition that could work as a comedy poster.",
+        "Take a photo with a clear and interesting subject.",
+        "Invent a memorable title for your imaginary show.",
+        "Write a short description explaining what the show would be about."
+      ],
+      "fields": [
+        {
+          "label": "Show title",
+          "placeholder": "The greatest comedy show never performed...",
+          "optional": false
+        },
+        {
+          "label": "Show description",
+          "placeholder": "An unforgettable comedy about...",
+          "optional": false
+        }
+      ],
+      "photo": true,
+      "rating": false,
+      "wordLimit": 0
+    },
+    {
+      "id": "17",
+      "title": "Finish the Awkward Conversation",
+      "category": "CREATIVE WRITING",
+      "description": "Imagine you're having a perfectly normal conversation when someone suddenly says, \"I think we need to talk about the incident with the inflatable flamingo.\" Nobody explains what happened, and now it's your job to finish the conversation in the funniest way possible.",
+      "steps": [
+        "Read the opening line and imagine the situation.",
+        "Write a short conversation between two characters.",
+        "Include at least one completely unexpected revelation.",
+        "End the conversation with a memorable punchline."
+      ],
+      "fields": [
+        {
+          "label": "Your conversation",
+          "placeholder": "So, about that flamingo...",
+          "optional": false
+        }
+      ],
+      "photo": false,
+      "rating": false,
+      "wordLimit": 0
+    },
+    {
+      "id": "18",
+      "title": "The Laughing Statue",
+      "category": "PHOTO CHALLENGE",
+      "description": "Become a living comedy statue! Strike an exaggerated pose that captures a funny emotion, an awkward situation, or a ridiculous character. The more dramatic the expression, the better the imaginary story behind it.",
+      "steps": [
+        "Choose a safe, suitable location around the festival.",
+        "Create a funny pose without interfering with other visitors.",
+        "Take a photo of your performance.",
+        "Give your statue an original title."
+      ],
+      "fields": [
+        {
+          "label": "Statue title",
+          "placeholder": "The Monument of Eternal Confusion...",
+          "optional": false
+        }
+      ],
+      "photo": true,
+      "rating": false,
+      "wordLimit": 0
+    },
+    {
+      "id": "19",
+      "title": "The Most Useless Invention",
+      "category": "FUNNY QUESTION",
+      "description": "The world is full of inventions that make life easier. Yours should achieve exactly the opposite. Imagine a completely unnecessary device that solves a problem nobody has ever experienced.",
+      "steps": [
+        "Invent a ridiculous product.",
+        "Describe what it does and why anyone would pretend to need it.",
+        "Create a funny advertising slogan."
+      ],
+      "fields": [
+        {
+          "label": "Invention name",
+          "placeholder": "Introducing the revolutionary...",
+          "optional": false
+        },
+        {
+          "label": "What does it do?",
+          "placeholder": "This incredible invention allows you to...",
+          "optional": false
+        },
+        {
+          "label": "Advertising slogan",
+          "placeholder": "The future of absolutely nothing...",
+          "optional": false
+        }
+      ],
+      "photo": false,
+      "rating": false,
+      "wordLimit": 0
+    },
+    {
+      "id": "20",
+      "title": "The Accidental Festival Celebrity",
+      "category": "FESTIVAL EXPERIENCE",
+      "description": "Imagine that everyone at the festival suddenly mistakes you for a famous comedian. People ask for autographs, expect jokes, and want to know when your next performance begins. What happens next?",
+      "steps": [
+        "Imagine how the misunderstanding started.",
+        "Describe your first reaction.",
+        "Invent an awkward interaction with a fan.",
+        "Explain how the situation becomes increasingly ridiculous.",
+        "Finish with an unexpected ending."
+      ],
+      "fields": [
+        {
+          "label": "Your celebrity story",
+          "placeholder": "It all started when someone shouted my name...",
+          "optional": false
+        }
+      ],
+      "photo": false,
+      "rating": false,
+      "wordLimit": 0
+    },
+    {
+      "id": "21",
+      "title": "Microphone's Secret Diary",
+      "category": "CREATIVE WRITING",
+      "description": "A festival microphone has heard hundreds of jokes, awkward pauses, and spectacular performances. Imagine it has been secretly keeping a diary about everything that happens on stage.",
+      "steps": [
+        "Imagine being the microphone during a particularly unusual comedy performance.",
+        "Write a short diary entry describing what you witnessed.",
+        "Include one hilarious complaint about the performers."
+      ],
+      "fields": [
+        {
+          "label": "Dear diary...",
+          "placeholder": "Another day, another comedian holding me too close...",
+          "optional": false
+        }
+      ],
+      "photo": false,
+      "rating": false,
+      "wordLimit": 0
+    },
+    {
+      "id": "22",
+      "title": "The Funniest Festival Outfit",
+      "category": "PHOTO CHALLENGE",
+      "description": "Who says festival fashion has to be serious? Put together a playful outfit using clothes or accessories you already have, and create a look that could belong to an eccentric comedy character.",
+      "steps": [
+        "Create a funny outfit using your available clothing or accessories.",
+        "Take a photo showing the complete look.",
+        "Invent a fictional character who would wear it.",
+        "Give your character a humorous backstory."
+      ],
+      "fields": [
+        {
+          "label": "Character name",
+          "placeholder": "Meet the legendary...",
+          "optional": false
+        },
+        {
+          "label": "Character backstory",
+          "placeholder": "Nobody knows why this character always wears...",
+          "optional": false
+        }
+      ],
+      "photo": true,
+      "rating": false,
+      "wordLimit": 0
+    },
+    {
+      "id": "23",
+      "title": "The Terrible Fortune Teller",
+      "category": "CREATIVE WRITING",
+      "description": "Imagine visiting a fortune teller who predicts the future with complete confidence but absolutely no useful information. Every prediction sounds mysterious until you realize how ridiculous it actually is.",
+      "steps": [
+        "Invent three completely useless predictions.",
+        "Make at least one prediction sound dramatically important."
+      ],
+      "fields": [
+        {
+          "label": "Prediction 1",
+          "placeholder": "Tomorrow, something will happen...",
+          "optional": false
+        },
+        {
+          "label": "Prediction 2",
+          "placeholder": "A mysterious stranger will...",
+          "optional": false
+        },
+        {
+          "label": "Prediction 3",
+          "placeholder": "Beware of the unexpected...",
+          "optional": false
+        }
+      ],
+      "photo": false,
+      "rating": false,
+      "wordLimit": 0
+    },
+    {
+      "id": "24",
+      "title": "What Would the Comedian Say?",
+      "category": "FUNNY QUESTION",
+      "description": "A comedian walks onto the stage, looks at the audience, and notices something completely unexpected: everyone is wearing the same sunglasses. What should their opening joke be?",
+      "steps": [
+        "Imagine the comedian's first reaction.",
+        "Write a short opening joke about the unusual audience.",
+        "Add an optional follow-up punchline."
+      ],
+      "fields": [
+        {
+          "label": "Opening joke",
+          "placeholder": "Well, I can see everyone got the memo...",
+          "optional": false
+        },
+        {
+          "label": "Follow-up punchline (optional)",
+          "placeholder": "And the strangest part is...",
+          "optional": true
+        }
+      ],
+      "photo": false,
+      "rating": false,
+      "wordLimit": 0
+    },
+    {
+      "id": "25",
+      "title": "Festival Photo Detective",
+      "category": "PHOTO CHALLENGE",
+      "description": "Every festival has small details that most visitors overlook. Become a comedy detective and photograph something ordinary that looks mysterious, suspicious, or unexpectedly amusing when viewed from a different angle.",
+      "steps": [
+        "Explore public festival areas and search for an interesting visual detail.",
+        "Photograph your discovery from an unusual angle.",
+        "Invent a ridiculous mystery involving the object.",
+        "Write a short detective-style explanation.",
+        "Give your investigation a memorable case name."
+      ],
+      "fields": [
+        {
+          "label": "Case name",
+          "placeholder": "The Mysterious Case of...",
+          "optional": false
+        },
+        {
+          "label": "Detective report",
+          "placeholder": "The evidence suggests that...",
+          "optional": false
+        }
+      ],
+      "photo": true,
+      "rating": false,
+      "wordLimit": 0
+    },
+    {
+      "id": "26",
+      "title": "The Worst Job Interview",
+      "category": "CREATIVE WRITING",
+      "description": "Imagine applying for a completely ordinary job, but your interviewer asks the most ridiculous question imaginable: \"How would you convince a sandwich to become more ambitious?\" Your answer could determine your entire imaginary career.",
+      "steps": [
+        "Read the interview question carefully.",
+        "Write your most creative and humorous response.",
+        "Invent the interviewer's reaction."
+      ],
+      "fields": [
+        {
+          "label": "Your interview answer",
+          "placeholder": "First, I would explain to the sandwich...",
+          "optional": false
+        },
+        {
+          "label": "Interviewer's reaction",
+          "placeholder": "The interviewer stared at me and said...",
+          "optional": false
+        }
+      ],
+      "photo": false,
+      "rating": false,
+      "wordLimit": 0
+    },
+    {
+      "id": "27",
+      "title": "Give Your Laugh a Name",
+      "category": "FESTIVAL EXPERIENCE",
+      "description": "Everyone laughs differently. Some people giggle quietly, others snort unexpectedly, and a few sound like malfunctioning household appliances. Imagine your laugh is so distinctive that it deserves its own official name.",
+      "steps": [
+        "Think about how you usually laugh.",
+        "Invent a funny name for your laughter style.",
+        "Describe what your laugh sounds like.",
+        "Explain what kind of joke usually triggers it."
+      ],
+      "fields": [
+        {
+          "label": "Laugh style name",
+          "placeholder": "The Legendary Thunder Giggle...",
+          "optional": false
+        },
+        {
+          "label": "How it sounds",
+          "placeholder": "Imagine a kettle trying to...",
+          "optional": false
+        },
+        {
+          "label": "What triggers it?",
+          "placeholder": "I usually laugh like this when...",
+          "optional": false
+        }
+      ],
+      "photo": false,
+      "rating": false,
+      "wordLimit": 0
+    },
+    {
+      "id": "28",
+      "title": "The Ridiculous Menu Item",
+      "category": "CREATIVE WRITING",
+      "description": "Imagine opening a food stand at the comedy festival, but your menu is designed entirely around terrible puns and completely unnecessary culinary experiments. Create one unforgettable dish that sounds both hilarious and slightly questionable.",
+      "steps": [
+        "Invent a funny name for your imaginary dish.",
+        "Describe its unusual ingredients.",
+        "Write an exaggerated restaurant-style description.",
+        "Set a ridiculous but believable festival price."
+      ],
+      "fields": [
+        {
+          "label": "Dish name",
+          "placeholder": "The Emotional Support Sandwich...",
+          "optional": false
+        },
+        {
+          "label": "Ingredients",
+          "placeholder": "Two slices of confidence, a pinch of...",
+          "optional": false
+        },
+        {
+          "label": "Menu description",
+          "placeholder": "A culinary masterpiece that nobody requested...",
+          "optional": false
+        },
+        {
+          "label": "Price",
+          "placeholder": "€...",
+          "optional": false
+        }
+      ],
+      "photo": false,
+      "rating": false,
+      "wordLimit": 0
+    },
+    {
+      "id": "29",
+      "title": "The Invisible Comedy Partner",
+      "category": "PHOTO CHALLENGE",
+      "description": "Imagine you're performing an important comedy scene with an invisible co-star. Your partner might be telling a terrible joke, stealing your imaginary sandwich, or refusing to leave the stage. Capture the perfect reaction to someone who isn't actually there.",
+      "steps": [
+        "Imagine a ridiculous situation involving an invisible character.",
+        "Create a dramatic expression or gesture in response.",
+        "Take a photo showing your reaction.",
+        "Write a caption explaining what your invisible partner just did."
+      ],
+      "fields": [
+        {
+          "label": "Scene description",
+          "placeholder": "My invisible partner just...",
+          "optional": false
+        }
+      ],
+      "photo": true,
+      "rating": false,
+      "wordLimit": 0
+    },
+    {
+      "id": "30",
+      "title": "The Comedy Time Machine",
+      "category": "FUNNY QUESTION",
+      "description": "You have invented a time machine, but it can only transport you to one extremely awkward moment from your past. Unfortunately, you are not allowed to change anything. You can only make the situation funnier.",
+      "steps": [
+        "Choose an imaginary or real awkward situation.",
+        "Describe how you would make the moment even more ridiculous."
+      ],
+      "fields": [
+        {
+          "label": "Your time-travel story",
+          "placeholder": "I traveled back to the moment when...",
+          "optional": false
+        }
+      ],
+      "photo": false,
+      "rating": false,
+      "wordLimit": 0
+    },
+    {
+      "id": "31",
+      "title": "My Comedy Festival Awards",
+      "category": "FESTIVAL EXPERIENCE",
+      "description": "Become the official judge of your own comedy festival experience. Forget traditional awards and invent creative nominations for the most unexpected moments of your visit.",
+      "steps": [
+        "Think about your funniest festival experiences.",
+        "Invent an award for the most memorable moment.",
+        "Create another award for the most unexpected situation.",
+        "Add a third award celebrating your personal festival highlight.",
+        "Explain why each moment deserves recognition."
+      ],
+      "fields": [
+        {
+          "label": "Award 1 — Most Memorable Moment",
+          "placeholder": "The Golden Microphone goes to...",
+          "optional": false
+        },
+        {
+          "label": "Award 2 — Most Unexpected Situation",
+          "placeholder": "The Surprise of the Century goes to...",
+          "optional": false
+        },
+        {
+          "label": "Award 3 — Personal Festival Highlight",
+          "placeholder": "The Legendary Laugh Award goes to...",
+          "optional": false
+        }
+      ],
+      "photo": false,
+      "rating": false,
+      "wordLimit": 0
+    },
+    {
+      "id": "32",
+      "title": "A Joke in Six Words",
+      "category": "CREATIVE WRITING",
+      "description": "Can you make someone laugh with just six words? Create a complete miniature joke using exactly six words. It might be an absurd observation, a surprising confession, or a ridiculous situation with an unexpected twist.",
+      "steps": [
+        "Think of a simple humorous idea.",
+        "Express it using exactly six words.",
+        "Check your word count before submitting."
+      ],
+      "fields": [
+        {
+          "label": "Your six-word joke",
+          "placeholder": "Write exactly six funny words...",
+          "optional": false
+        }
+      ],
+      "photo": false,
+      "rating": false,
+      "wordLimit": 6
+    }
+  ]
+}
