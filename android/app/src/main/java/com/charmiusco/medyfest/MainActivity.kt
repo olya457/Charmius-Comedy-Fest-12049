@@ -1,4 +1,4 @@
-package com.charmiuscomedyfest
+package com.charmiusco.medyfest
 
 import android.os.Bundle
 import com.swmansion.rnscreens.fragment.restoration.RNScreensFragmentFactory
